@@ -1,0 +1,23 @@
+name: Helio-proj
+channels:
+- conda-forge
+dependencies:
+- python
+- pip
+- awscli
+- boto3
+- s3fs
+- ipykernel
+- astropy
+- sunpy
+- numpy
+- pandas
+- scipy
+- matplotlib
+- cmasher
+
+
+
+
+
+
